@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vol Power</string>
+    <string name="accessibility_desc">Lets Vol Power lock the screen and open the power menu from the notification drawer, because the hardware power button is broken. It does not read any screen content.</string>
+    <string name="tile_up">Volume +</string>
+    <string name="tile_down">Volume -</string>
+    <string name="tile_mute">Mute</string>
+    <string name="tile_slider">Vol slider</string>
+    <string name="tile_power">Lock screen</string>
+</resources>
